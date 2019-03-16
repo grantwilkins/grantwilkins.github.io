@@ -97,10 +97,11 @@ publications:
       - title: “Variances in Quantum Electronic Characteristics
         The Effects of Differing Li, Be, and Na Electrodes with Constant Scattering Regions”
         authors: Grant Wilkins
+        conference:
 
       - title: “Temperature-Independent, Computational Conductivity in Au-Ag Nanowire with Varying Magnetic Fields”
         authors: Grant Wilkins
-       
+        conference:
 
 skills:
     title: Skills &amp; Proficiency
