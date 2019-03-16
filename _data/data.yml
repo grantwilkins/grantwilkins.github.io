@@ -41,13 +41,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Currently I am pursuing a Bachelor of Science in Computer Engineering with a 
+      minor in Business Administration and in Computer Science. My research interests
+      are in Computational Quantum Chemistry, Machine Learning, High Performance Computing,
+      and Parallel Computing. My hobbies include playing guitar, hiking, exercising, and
+      reading. I love to work in groups and have developed my leadership skills through 
+      Boy Scouts of America, having attained the rank of Eagle Scout. I look to use my computing
+      skills to impart an environmentally sustainable outlook on the world. Seeking internship
+      experiences.
 
 education:
     - degree: B.S. Computer Engineering
@@ -84,11 +85,17 @@ projects:
       Some projects from various points of development.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Computational Quantum Chemistry
+        link: 
+        tagline: "Observing differences in conductance from the quantum level versus the macroscopic level."
+      
+      - title: Tensorflow Projects
+        link:
+        tagline: "Developing highly trained and deployable models in Python to analyze and develop trends in large datasets."
 
-
+      - title: Computational Physics
+        link: 
+        tagline: "Used FORTRAN to model physical situations such as the 1-D heat equation and gravitational bodies."
 publications:
     title: Publications
     intro: All publications available upon request.
