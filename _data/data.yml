@@ -91,7 +91,8 @@ projects:
 
 publications:
     title: Publications
-    intro: All publications available upon request.
+    intro: |
+    All publications available upon request.
 
     papers:
       - title: “Variances in Quantum Electronic Characteristics
@@ -108,7 +109,7 @@ skills:
 
     toolset:
       - name: Python 
-        level: 98%
+        level: 
 
       - name: Java
         level:
