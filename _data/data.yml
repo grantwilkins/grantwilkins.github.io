@@ -91,12 +91,10 @@ projects:
 
 publications:
     title: Publications
-    intro: |
-    All publications available upon request.
+    intro: All publications available upon request.
 
     papers:
-      - title: “Variances in Quantum Electronic Characteristics
-        The Effects of Differing Li, Be, and Na Electrodes with Constant Scattering Regions”
+      - title: “Variances in Quantum Electronic Characteristic The Effects of Differing Li, Be, and Na Electrodes with Constant Scattering Regions”
         authors: Grant Wilkins
         conference:
 
