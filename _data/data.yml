@@ -114,19 +114,19 @@ skills:
 
     toolset:
       - name: Python 
-        level: 400
+        level: 320
 
       - name: Java
-        level: 450
+        level: 380
 
       - name: SIESTA
-        level: 360
+        level: 300
 
       - name: FORTRAN
-        level: 200
+        level: 230
 
       - name: C
-        level: 300
+        level: 250
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
