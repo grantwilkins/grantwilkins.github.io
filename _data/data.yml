@@ -93,7 +93,7 @@ projects:
         link:
         tagline: "Developing highly trained and deployable models in Python to analyze and develop trends in large datasets."
 
-      - title: Computational Physics
+      - title: [Computational Physics](google.com)
         link: 
         tagline: "Used FORTRAN to model physical situations such as the 1-D heat equation and gravitational bodies."
 publications:
