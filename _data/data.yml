@@ -64,10 +64,10 @@ experiences:
       time: 2019-Present
       company: Clemson University Department of Electrical and Computer Engineering
       details: |
-      Works with Professor Calhoun on High Performance Computing research with a focus in lossy
-      compression. Current projects include predicting the energy usage of SZ compression of large
-      data sets ab initio with a set of variables.. Conducting research on CloudLab systems with 
-      large amounts of data. Papers and presentations will soon be available from this experience.
+       Works with Professor Calhoun on High Performance Computing research with a focus in lossy
+       compression. Current projects include predicting the energy usage of SZ compression of large
+       data sets ab initio with a set of variables.. Conducting research on CloudLab systems with 
+       large amounts of data. Papers and presentations will soon be available from this experience.
       
     - role: Researcher
       time: 2018 
