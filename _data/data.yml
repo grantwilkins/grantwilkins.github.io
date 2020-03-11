@@ -60,6 +60,15 @@ education:
         Computing and Scientific Computing.
 
 experiences:
+     - role: Undergraduate Researcher
+      time: 2019-Present
+      company: Clemson University Department of Electrical and Computer Engineering
+      details: |
+      Works with Professor Calhoun on High Performance Computing research with a focus in lossy
+      compression. Current projects include predicting the energy usage of SZ compression of large
+      data sets ab initio with a set of variables.. Conducting research on CloudLab systems with 
+      large amounts of data. Papers and presentations will soon be available from this experience.
+      
     - role: Researcher
       time: 2018 
       company: Pioneer Academics
@@ -85,6 +94,9 @@ projects:
       Some projects from various points of development.
 
     assignments:
+      - title: Lossy Compression and Energy Usage
+        link: 
+        tagline: "Finding the energy required to compress and decompress large amounts of data with SZ compression."
       - title: Computational Quantum Chemistry
         link: 
         tagline: "Observing differences in conductance from the quantum level versus the macroscopic level."
@@ -114,19 +126,25 @@ skills:
 
     toolset:
       - name: Python 
-        level: 320
-
-      - name: Java
         level: 380
-
+      - name: C/C++
+        level: 380
+      - name: LaTeX
+        level: 350 
+      - name: Matlab
+        level: 350
+      - name: Java
+        level: 340
       - name: SIESTA
         level: 300
-
+      - name: Excel
+        level: 300
       - name: FORTRAN
+        level: 230   
+      - name: Mathematica
         level: 230
-
-      - name: C
-        level: 250
+      
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
