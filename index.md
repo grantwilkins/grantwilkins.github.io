@@ -2,6 +2,8 @@ I am an Advanced Computer Science MPhil candidate at Cambridge University in Chu
 
 Before Cambridge, I researched green computing and lossy compression in high-performance computing (HPC) with [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/) at Clemson University, developed novel lossy compressors for edge and IoT devices at [Argonne National Lab](https://www.anl.gov/) advised by [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/),and designed IoT software for smart grid applications at [Tesla, Inc.](https://www.tesla.com/support/energy/powerwall/own/california-virtual-power-plant).
 
+[Find my CV here](https://grantwilkins.github.io/Grant_W_CV.pdf)
+
 ## Publications
 
 
