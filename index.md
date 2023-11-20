@@ -1,6 +1,6 @@
-I am an Advanced Computer Science M.Phil candidate at Cambridge University in Churchill College, advised by [Prof. Richard Mortier](https://mort.io/). I am interested in AI for climate change, distributed IoT systems, federated learning, and sustainable computing.<br>
+I am an Advanced Computer Science M.Phil candidate at Cambridge University in Churchill College, advised by [Prof. Richard Mortier](https://mort.io/) and [Prof. Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page). I am interested in AI for climate change, distributed IoT systems, federated learning, and sustainable computing.<br>
 
-Before Cambridge, I researched green computing and lossy compression in high-performance computing (HPC) with [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/) at Clemson University, developed novel lossy compressors for edge and IoT devices at [Argonne National Lab](https://www.anl.gov/) advised by [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/),and designed IoT software for smart grid applications at [Tesla, Inc.](https://www.tesla.com/support/energy/powerwall/own/california-virtual-power-plant).
+Before Cambridge, I researched green computing and lossy compression in high-performance computing (HPC) with [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/) at Clemson University, developed novel lossy compression techniques for federated learning at [Argonne National Lab](https://www.anl.gov/) advised by [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/),and designed IoT software for smart grid applications at [Tesla, Inc.](https://www.tesla.com/support/energy/powerwall/own/california-virtual-power-plant).
 
 [Find my CV here](https://grantwilkins.github.io/Grant_W_CV.pdf)
 
@@ -8,15 +8,19 @@ Before Cambridge, I researched green computing and lossy compression in high-per
 
 ### Conference Proceedings
 
-1. G. Wilkins, M. J. Gossman, B. Nicolae, M. C. Smith, and J. C. Calhoun, “Analyzing the energy consumption of synchronous and asynchronous checkpointing strategies”, in 2022 IEEE/ACM Third International Symposium on Checkpointing for Supercomputing (SuperCheck), Nov. 2022, pp. 1–9. [find paper here](https://ieeexplore.ieee.org/abstract/document/10025540)
+1. G. Wilkins, S. Di, J. C. Calhoun, K. Kim, R. Underwood, and F. Cappello, “FedSZ: Leveraging lossy compression for federated learning communications”, in 2024 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPS), Jun. 2024, In Submission.
 
-2. G. Wilkins and J. C. Calhoun, “Modeling power consumption of lossy compressed i/o for exascale hpc systems”, in 2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Jun. 2022, pp. 1118–1126. [find paper here](https://ieeexplore.ieee.org/abstract/document/9835551)
+2. G. Wilkins, M. J. Gossman, B. Nicolae, M. C. Smith, and J. C. Calhoun, “Analyzing the energy consumption of synchronous and asynchronous checkpointing strategies”, in 2022 IEEE/ACM Third International Symposium on Checkpointing for Supercomputing (SuperCheck), Nov. 2022, pp. 1–9. [find paper here](https://ieeexplore.ieee.org/abstract/document/10025540)
 
-3. G. Wilkins and J. C. Calhoun, “Modeling energy Consumption for the SZ compressor on hpc systems”, in IEEE/ACM 32nd International Conference for High Performance Computing, Networking, Storage, and Analysis Proceedings, Oct. 2020. [find paper here](http://sc20.supercomputing.org/proceedings/src_poster/poster_files/spostu107s2-file2.pdf)
+3. G. Wilkins and J. C. Calhoun, “Modeling power consumption of lossy compressed i/o for exascale hpc systems”, in 2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Jun. 2022, pp. 1118–1126. [find paper here](https://ieeexplore.ieee.org/abstract/document/9835551)
+
+4. G. Wilkins and J. C. Calhoun, “Modeling energy Consumption for the SZ compressor on hpc systems”, in IEEE/ACM 32nd International Conference for High Performance Computing, Networking, Storage, and Analysis Proceedings, Oct. 2020. [find paper here](http://sc20.supercomputing.org/proceedings/src_poster/poster_files/spostu107s2-file2.pdf)
 
 ### Journal Articles
 
-1. G. Wilkins and G. Washington, “Variances in quantum electronic characteristics: The effects of differing Li, Be, and Na electrodes with constant scattering regions”, Pioneer Academics, 5(1), Jul. 2018.
+1. S. Di, J. Liu, K. Zhao, X. Liang, R. Underwood, D. Tao, J. Tian, Y. Huang, J. Huang, X. Yu, J. C. Cahoun, M. Shah, B. Zhang, G. Wilkins, Z. Zhang, G. Li, K. A. Alharthi, and F. Cappello, “A survey on error-bounded lossy compression for parallel and distributed use-cases”, ACM Computing Surveys, In Submission, 2024.
+
+2. G. Wilkins and G. Washington, “Variances in quantum electronic characteristics: The effects of differing Li, Be, and Na electrodes with constant scattering regions”, Pioneer Academics, 5(1), Jul. 2018.
 
 ### Theses and Reports
 
@@ -32,7 +36,7 @@ Before Cambridge, I researched green computing and lossy compression in high-per
 
 1. **Graduate Student Researcher at Argonne National Laboratory** (Summer 2023)
 <br> *Advisors:* [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/), [Dr. Robert Underwood](https://robertu94.github.io/), and [Dr. Franck Cappello](https://www.anl.gov/profile/franck-cappello)
-<br> Developer of ThingSZ: a highly efficient IoT-based lossy compressor for data reduction of floating point streams.
+<br> Developer of FedSZ: a lossy compressor to reduce the overhead of federated learning communications.
 
 2. **Undergraduate Researcher at Clemson University** (Fall 2020 – Fall 2023)
 <br> *Advisor:* [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/)
