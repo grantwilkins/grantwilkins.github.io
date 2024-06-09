@@ -16,7 +16,7 @@ A few things I have been a part of: I researched green computing and lossy compr
 
 ### Journal Articles
 
-1. S. Di, J. Liu, K. Zhao, X. Liang, R. Underwood, D. Tao, J. Tian, Y. Huang, J. Huang, X. Yu, J. C. Cahoun, M. Shah, B. Zhang, G. Wilkins, Z. Zhang, G. Li, K. A. Alharthi, and F. Cappello, “A survey on error-bounded lossy compression for parallel and distributed use-cases”, ACM Computing Surveys, In Submission, 2024.
+1. S. Di, J. Liu, K. Zhao, X. Liang, R. Underwood, D. Tao, J. Tian, Y. Huang, J. Huang, X. Yu, J. C. Cahoun, M. Shah, B. Zhang, G. Wilkins, Z. Zhang, G. Li, K. A. Alharthi, and F. Cappello, “A survey on error-bounded lossy compression for parallel and distributed use-cases”, ACM Computing Surveys, In Submission, 2024. [arxiv link](https://arxiv.org/abs/2404.02840)
 
 
 ### Theses and Reports
