@@ -8,11 +8,12 @@ A few things I have been a part of: I researched green computing and lossy compr
 
 ### Conference Proceedings
 
-1. G. Wilkins, S. Keshav, and R. Mortier. "Hybrid heterogeneous clusters can lower the energy consumption of LLM inference workloads," in 2024 ACM International Conference on Future and Sustainable Energy Systems (e-Energy '24), Jun. 2024, pp. 506–513. [find paper here](https://dl.acm.org/doi/abs/10.1145/3632775.3662830)
-2. G. Wilkins, S. Di, J. C. Calhoun, K. Kim, R. Underwood, and F. Cappello, "FedSZ: Leveraging error-bounded lossy compression for federated learning communications”, in 2024 IEEE International Conference on Distributed Computing Systems (ICDCS), Jul. 2024. [find paper here](https://arxiv.org/abs/2312.13461)
-3. G. Wilkins, M. J. Gossman, B. Nicolae, M. C. Smith, and J. C. Calhoun, “Analyzing the energy consumption of synchronous and asynchronous checkpointing strategies”, in 2022 IEEE/ACM Third International Symposium on Checkpointing for Supercomputing (SuperCheck), Nov. 2022, pp. 1–9. [find paper here](https://ieeexplore.ieee.org/abstract/document/10025540)
-4. G. Wilkins and J. C. Calhoun, “Modeling power consumption of lossy compressed i/o for exascale hpc systems”, in 2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Jun. 2022, pp. 1118–1126. [find paper here](https://ieeexplore.ieee.org/abstract/document/9835551)
-5. G. Wilkins and J. C. Calhoun, “Modeling energy Consumption for the SZ compressor on hpc systems”, in IEEE/ACM 32nd International Conference for High Performance Computing, Networking, Storage, and Analysis Proceedings, Oct. 2020. [find paper here](http://sc20.supercomputing.org/proceedings/src_poster/poster_files/spostu107s2-file2.pdf)
+1. G. Wilkins, S. Keshav, and R. Mortier. "Towards Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems," to appear at 2024 ACM HotCarbon Workshop on Sustainable Computer Systems (HotCarbon'24), Jul. 2024.
+2. G. Wilkins, S. Keshav, and R. Mortier. "Hybrid heterogeneous clusters can lower the energy consumption of LLM inference workloads," in 2024 ACM International Conference on Future and Sustainable Energy Systems (e-Energy '24), Jun. 2024, pp. 506–513. [find paper here](https://dl.acm.org/doi/abs/10.1145/3632775.3662830)
+3. G. Wilkins, S. Di, J. C. Calhoun, K. Kim, R. Underwood, and F. Cappello, "FedSZ: Leveraging error-bounded lossy compression for federated learning communications”, in 2024 IEEE International Conference on Distributed Computing Systems (ICDCS), Jul. 2024. [find paper here](https://arxiv.org/abs/2312.13461)
+4. G. Wilkins, M. J. Gossman, B. Nicolae, M. C. Smith, and J. C. Calhoun, “Analyzing the energy consumption of synchronous and asynchronous checkpointing strategies”, in 2022 IEEE/ACM Third International Symposium on Checkpointing for Supercomputing (SuperCheck), Nov. 2022, pp. 1–9. [find paper here](https://ieeexplore.ieee.org/abstract/document/10025540)
+5. G. Wilkins and J. C. Calhoun, “Modeling power consumption of lossy compressed i/o for exascale hpc systems”, in 2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Jun. 2022, pp. 1118–1126. [find paper here](https://ieeexplore.ieee.org/abstract/document/9835551)
+6. G. Wilkins and J. C. Calhoun, “Modeling energy Consumption for the SZ compressor on hpc systems”, in IEEE/ACM 32nd International Conference for High Performance Computing, Networking, Storage, and Analysis Proceedings, Oct. 2020. [find paper here](http://sc20.supercomputing.org/proceedings/src_poster/poster_files/spostu107s2-file2.pdf)
 
 ### Journal Articles
 
@@ -23,8 +24,6 @@ A few things I have been a part of: I researched green computing and lossy compr
 
 1. G. Wilkins, "Online Workload Allocation and Energy Optimization in Large Language Model Inference Systems", University of Cambridge MPhil in Advanced Computer Science, June 2024. [find paper here](https://grantwilkins.github.io/gfw27_project.pdf)
 2. G. Wilkins, “Green HPC: Optimizing Software Stack Energy Efficiency of Large Data Systems”, Clemson University Honors College, May 2023. [find paper here](https://grantwilkins.github.io/greenHPC_Grant_W.pdf)
-3. G. Wilkins, “Temperature Independent, Computational Conductivity in Au-Ag Nanowire with Varying Magnetic Fields”, AP Research, May 2019.
-4. G. Wilkins and G. Washington, “Variances in quantum electronic characteristics: The effects of differing Li, Be, and Na electrodes with constant scattering regions”, Jul. 2018.
 
 
 
@@ -48,10 +47,6 @@ A few things I have been a part of: I researched green computing and lossy compr
 4. **NSF-REU: HPC Data Reduction at Clemson University** (Summer 2020)
 <br> *Advisor:* [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/)
 <br> Produced runtime power models of the SZ lossy compressor for optimization.
-
-5. **Research Assistant at United States Military Academy** (Spring 2018 - Spring 2019)
-<br> *Advisor:* Dr. Gary Washington
-<br> Simulated novel device behavior for electron transport over lithium nanowires and gold-silver substrates using computational quantum chemistry.
 
 ### Industry
 
