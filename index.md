@@ -1,6 +1,10 @@
-I am an Advanced Computer Science M.Phil candidate at Cambridge University in Churchill College, advised by [Prof. Richard Mortier](https://mort.io/) and [Prof. Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page). I am broadly interested in using computing as a tool to mitigate the effects of climate change. Due to the many ways we cause and experience climate change this can take many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. I am an incoming Electrical Engineering PhD student at Stanford University where I intend to work with [Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) on applying federated learning for secure energy systems. <br>
+Hey! I am originally from Kingsport, TN and am currently Electrical Engineering PhD Student at Stanford University. I am working with [Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) on making a responsive electric grid with respect to data centers and their boom in power usage fueled by AI. I am broadly interested in using computing as a tool to mitigate the effects of climate change. Due to the many ways we cause and experience climate change this can take many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. <br>
 
-A few things I have been a part of: I researched green computing and lossy compression in high-performance computing (HPC) with [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/) at Clemson University, developed lossy compression techniques for federated learning at [Argonne National Lab](https://www.anl.gov/) advised by [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/), and designed IoT software for smart grid applications at [Tesla, Inc.](https://www.tesla.com/support/energy/powerwall/own/california-virtual-power-plant).
+A few things I have been a part of: 
+- Energy-optimizing serving and routing of LLM inference systems supervised by [Prof. Richard Mortier](https://mort.io/) and [Prof. Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page) at the University of Cambridge.
+- Modeling high-performance computing energy consumption supervised by [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/) at Clemson University.
+- Developing lossy compression techniques for federated learning supervised by [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/) at [Argonne National Lab](https://www.anl.gov/).
+- Designing IoT software for smart grid applications at [Tesla, Inc.](https://www.tesla.com/support/energy/powerwall/own/california-virtual-power-plant).
 
 [Find a fairly recent CV here](https://grantwilkins.github.io/Grant_W_CV.pdf)
 
@@ -8,16 +12,17 @@ A few things I have been a part of: I researched green computing and lossy compr
 
 ### Conference Proceedings
 
-1. G. Wilkins, S. Keshav, and R. Mortier. "Towards Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems," to appear at 2024 ACM HotCarbon Workshop on Sustainable Computer Systems (HotCarbon'24), Jul. 2024.
-2. G. Wilkins, S. Keshav, and R. Mortier. "Hybrid heterogeneous clusters can lower the energy consumption of LLM inference workloads," in 2024 ACM International Conference on Future and Sustainable Energy Systems (e-Energy '24), Jun. 2024, pp. 506–513. [find paper here](https://dl.acm.org/doi/abs/10.1145/3632775.3662830)
-3. G. Wilkins, S. Di, J. C. Calhoun, K. Kim, R. Underwood, and F. Cappello, "FedSZ: Leveraging error-bounded lossy compression for federated learning communications”, in 2024 IEEE International Conference on Distributed Computing Systems (ICDCS), Jul. 2024. [find paper here](https://arxiv.org/abs/2312.13461)
-4. G. Wilkins, M. J. Gossman, B. Nicolae, M. C. Smith, and J. C. Calhoun, “Analyzing the energy consumption of synchronous and asynchronous checkpointing strategies”, in 2022 IEEE/ACM Third International Symposium on Checkpointing for Supercomputing (SuperCheck), Nov. 2022, pp. 1–9. [find paper here](https://ieeexplore.ieee.org/abstract/document/10025540)
-5. G. Wilkins and J. C. Calhoun, “Modeling power consumption of lossy compressed i/o for exascale hpc systems”, in 2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Jun. 2022, pp. 1118–1126. [find paper here](https://ieeexplore.ieee.org/abstract/document/9835551)
-6. G. Wilkins and J. C. Calhoun, “Modeling energy Consumption for the SZ compressor on hpc systems”, in IEEE/ACM 32nd International Conference for High Performance Computing, Networking, Storage, and Analysis Proceedings, Oct. 2020. [find paper here](http://sc20.supercomputing.org/proceedings/src_poster/poster_files/spostu107s2-file2.pdf)
+1. G. Wilkins, S. Di, J. C. Calhoun, R. Underwood, and F. Cappello, "To Compress or Not To Compress: Energy Trade-Offs and Benefits of Lossy Compressed I/O," In Submission. Oct. 2024.
+2. G. Wilkins, S. Keshav, and R. Mortier. "Towards Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems," 2024 ACM HotCarbon Workshop on Sustainable Computer Systems (HotCarbon'24), Jul. 2024. [find paper here](https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final30.pdf) [arxiv](https://arxiv.org/abs/2407.04014)
+3. G. Wilkins, S. Keshav, and R. Mortier. "Hybrid heterogeneous clusters can lower the energy consumption of LLM inference workloads," in 2024 ACM International Conference on Future and Sustainable Energy Systems (e-Energy '24), Jun. 2024, pp. 506–513. [find paper here](https://dl.acm.org/doi/abs/10.1145/3632775.3662830) [arxiv](https://arxiv.org/abs/2407.00010)
+4. G. Wilkins, S. Di, J. C. Calhoun, K. Kim, R. Underwood, and F. Cappello, "FedSZ: Leveraging error-bounded lossy compression for federated learning communications”, in 2024 IEEE International Conference on Distributed Computing Systems (ICDCS), Jul. 2024. [find paper here](https://ieeexplore.ieee.org/abstract/document/10630996) [arxiv](https://arxiv.org/abs/2312.13461)
+5. G. Wilkins, M. J. Gossman, B. Nicolae, M. C. Smith, and J. C. Calhoun, “Analyzing the energy consumption of synchronous and asynchronous checkpointing strategies”, in 2022 IEEE/ACM Third International Symposium on Checkpointing for Supercomputing (SuperCheck), Nov. 2022, pp. 1–9. [find paper here](https://ieeexplore.ieee.org/abstract/document/10025540)
+6. G. Wilkins and J. C. Calhoun, “Modeling power consumption of lossy compressed i/o for exascale hpc systems”, in 2022 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), Jun. 2022, pp. 1118–1126. [find paper here](https://ieeexplore.ieee.org/abstract/document/9835551)
+7. G. Wilkins and J. C. Calhoun, “Modeling energy Consumption for the SZ compressor on hpc systems”, in IEEE/ACM 32nd International Conference for High Performance Computing, Networking, Storage, and Analysis Proceedings, Oct. 2020. [find paper here](http://sc20.supercomputing.org/proceedings/src_poster/poster_files/spostu107s2-file2.pdf)
 
 ### Journal Articles
 
-1. S. Di, J. Liu, K. Zhao, X. Liang, R. Underwood, D. Tao, J. Tian, Y. Huang, J. Huang, X. Yu, J. C. Cahoun, M. Shah, B. Zhang, G. Wilkins, Z. Zhang, G. Li, K. A. Alharthi, and F. Cappello, “A survey on error-bounded lossy compression for parallel and distributed use-cases”, ACM Computing Surveys, In Submission, 2024. [arxiv link](https://arxiv.org/abs/2404.02840)
+1. S. Di, J. Liu, K. Zhao, X. Liang, R. Underwood, D. Tao, J. Tian, Y. Huang, J. Huang, X. Yu, J. C. Cahoun, M. Shah, B. Zhang, G. Wilkins, Z. Zhang, G. Li, K. A. Alharthi, and F. Cappello, “A survey on error-bounded lossy compression for parallel and distributed use-cases”, ACM Computing Surveys, In Submission, 2024. [arxiv](https://arxiv.org/abs/2404.02840)
 
 
 ### Theses and Reports
@@ -59,4 +64,4 @@ Worked on California Virtual Power Plant, a project that ended up [keeping power
 Clemson University ENGR 1410 Introduction to MATLAB.<br>
 Teaching Assistant, Fall 2020, Spring 2021.
   
-(Last update: Jun 10, 2024)
+(Last update: Oct 30, 2024)
