@@ -1,4 +1,6 @@
-Hey! I am originally from Kingsport, TN and am currently Electrical Engineering PhD Student at Stanford University. I am working with [Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) on making a responsive electric grid with respect to data centers and their boom in power usage fueled by AI. I am broadly interested in using computing as a tool to mitigate the effects of climate change. Due to the many ways we cause and experience climate change this can take many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. <br>
+Hey! I am originally from Kingsport, TN and am currently Electrical Engineering PhD Student at Stanford University. I am working with [Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Phil Levis](https://csl.stanford.edu/~pal/) on forging a harmonious relationship between the electric grid and data centers, in part because of their boom in power usage fueled by AI. 
+
+I am broadly interested in using computing as a tool to mitigate the effects of climate change. Due to the many ways we cause and experience climate change this can take many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. <br>
 
 A few things I have been a part of: 
 - Energy-optimizing serving and routing of LLM inference systems supervised by [Prof. Richard Mortier](https://mort.io/) and [Prof. Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page) at the University of Cambridge.
@@ -12,7 +14,7 @@ A few things I have been a part of:
 
 ### Conference Proceedings
 
-1. G. Wilkins, S. Di, J. C. Calhoun, R. Underwood, and F. Cappello, "To Compress or Not To Compress: Energy Trade-Offs and Benefits of Lossy Compressed I/O," In Submission. Oct. 2024.
+1. G. Wilkins, S. Di, J. C. Calhoun, R. Underwood, and F. Cappello, "To Compress or Not To Compress: Energy Trade-Offs and Benefits of Lossy Compressed I/O," in 2025 IEEE International Parallel and Distributed Programming Symposium, Jun. 2025. [arxiv](https://arxiv.org/abs/2410.23497)
 2. G. Wilkins, S. Keshav, and R. Mortier. "Towards Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems," 2024 ACM HotCarbon Workshop on Sustainable Computer Systems (HotCarbon'24), Jul. 2024. [find paper here](https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final30.pdf) [arxiv](https://arxiv.org/abs/2407.04014)
 3. G. Wilkins, S. Keshav, and R. Mortier. "Hybrid heterogeneous clusters can lower the energy consumption of LLM inference workloads," in 2024 ACM International Conference on Future and Sustainable Energy Systems (e-Energy '24), Jun. 2024, pp. 506–513. [find paper here](https://dl.acm.org/doi/abs/10.1145/3632775.3662830) [arxiv](https://arxiv.org/abs/2407.00010)
 4. G. Wilkins, S. Di, J. C. Calhoun, K. Kim, R. Underwood, and F. Cappello, "FedSZ: Leveraging error-bounded lossy compression for federated learning communications”, in 2024 IEEE International Conference on Distributed Computing Systems (ICDCS), Jul. 2024. [find paper here](https://ieeexplore.ieee.org/abstract/document/10630996) [arxiv](https://arxiv.org/abs/2312.13461)
@@ -64,4 +66,4 @@ Worked on California Virtual Power Plant, a project that ended up [keeping power
 Clemson University ENGR 1410 Introduction to MATLAB.<br>
 Teaching Assistant, Fall 2020, Spring 2021.
   
-(Last update: Oct 30, 2024)
+(Last update: Jan 07, 2024)
