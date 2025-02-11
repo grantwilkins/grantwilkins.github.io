@@ -1,4 +1,4 @@
-Hey! I am originally from Kingsport, TN and am currently Electrical Engineering PhD Student at Stanford University. I am working with [Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal) and [Phil Levis](https://csl.stanford.edu/~pal/) on forging a harmonious relationship between the electric grid and data centers, in part because of their boom in power usage fueled by AI. 
+Hey! I am originally from Kingsport, TN and am currently Electrical Engineering PhD Student at Stanford University. I am currently working on forging a harmonious relationship between the electric grid and data centers, in part because of their boom in power usage fueled by AI. 
 
 I am broadly interested in using computing as a tool to mitigate the effects of climate change. Due to the many ways we cause and experience climate change this can take many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. <br>
 
