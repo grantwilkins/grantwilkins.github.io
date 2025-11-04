@@ -1,11 +1,13 @@
-Hey! I am originally from Kingsport, TN and am currently Electrical Engineering PhD Student at Stanford University. I am currently working on forging a harmonious relationship between the electric grid and data centers, in part because of their boom in power usage fueled by AI. 
+Hey! I am Grant Wilkins, an Electrical Engineering PhD student at Stanford University from Kingsport, TN. I am currently exploring the relationship between the electric grid operation and planning and data center power infrastructure, in part due to their boom in power usage fueled by AI. 
 
-I am broadly interested in using computing as a tool to mitigate the effects of climate change. Due to the many ways we cause and experience climate change this can take many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. <br>
+I am interested in ways we can use compute as a tool to complement energy systems towards a more sustainable future and to combat effects of climate change. Due to the many ways we cause and experience climate change this kind of work takes many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. <br>
 
-A few things I have been a part of: 
-- Energy-optimizing serving and routing of LLM inference systems supervised by [Prof. Richard Mortier](https://mort.io/) and [Prof. Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page) at the University of Cambridge.
-- Modeling high-performance computing energy consumption supervised by [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/) at Clemson University.
-- Developing lossy compression techniques for federated learning supervised by [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/) at [Argonne National Lab](https://www.anl.gov/).
+A few things I am or have been a part of: 
+- Mitigating transients and load swings in AI training clusters at Stanford University
+- Designing next-generation data center power hierarchies to reduce overbuilding [Microsoft Azure Research--Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/)
+- Energy-optimizing serving and routing of LLM inference systems supervised by [Richard Mortier](https://mort.io/) and [Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page) at the University of Cambridge.
+- Modeling high-performance computing energy consumption supervised by [Jon Calhoun](https://jonccal.people.clemson.edu/) at Clemson University.
+- Developing lossy compression techniques for federated learning supervised by [Sheng Di](https://www.mcs.anl.gov/~shdi/) at [Argonne National Lab](https://www.anl.gov/).
 - Designing IoT software for smart grid applications at [Tesla, Inc.](https://www.tesla.com/support/energy/powerwall/own/california-virtual-power-plant).
 
 [Find a fairly recent CV here](https://grantwilkins.github.io/Grant_W_CV.pdf)
@@ -37,22 +39,30 @@ A few things I have been a part of:
 ## Experience
 
 ### Research
+1. **Graduate Researcher at Stanford University** (Fall 2024 to present)
+<br> *Advisors:* [Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal), [Phil Levis](https://csl.stanford.edu/~pal/)
+<br> Lead on developing data center level load models to integrate into grid planning methodology.
+<br> Assistant on designing power electronics solution to swings in AI training power draw.
 
-1. **Graduate Student Researcher at Argonne National Laboratory** (Summer 2023 and 2024)
-<br> *Advisors:* [Dr. Sheng Di](https://www.mcs.anl.gov/~shdi/), [Dr. Robert Underwood](https://robertu94.github.io/), and [Dr. Franck Cappello](https://www.anl.gov/profile/franck-cappello)
+2. **Research Intern at Microsoft Azure Research--Systems** (Summer 2025)
+<br> *Advisors:* [Fiodar Kazhamiaka](https://www.microsoft.com/en-us/research/people/fkazhamiaka/), [Alok Kumbhare](https://www.microsoft.com/en-us/research/people/alok-kumbhare/), [Chaojie Zhang](https://www.microsoft.com/en-us/research/people/chaojiezhang/), and [Ricardo Bianchini](https://www.microsoft.com/en-us/research/people/ricardob/)
+<br> Created data center power hierarchy simulator to explore reliable and efficient designs for NVIDIA pod era.
+
+3. **Graduate Student Researcher at Argonne National Laboratory** (Summer 2023 and 2024)
+<br> *Advisors:* [Sheng Di](https://www.mcs.anl.gov/~shdi/), [Robert Underwood](https://robertu94.github.io/), and [Franck Cappello](https://www.anl.gov/profile/franck-cappello)
 <br> Developer of FedSZ: a lossy compressor to reduce the overhead of federated learning communications.
 <br> Lead on a study to quantify energy benefits of using lossy compression to cut data size.
 
-2. **Graduate Student Researcher at University of Cambridge** (Fall 2023 to Summer 2024)
-<br> *Advisors:* [Prof. Richard Mortier](https://mort.io/) and [Prof. Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page)
+4. **Graduate Student Researcher at University of Cambridge** (Fall 2023 to Summer 2024)
+<br> *Advisors:* [Richard Mortier](https://mort.io/) and [Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page)
 <br> Developer of EASLI: an online, energy-aware scheduler for serving LLM inference.
 
-3. **Undergraduate Researcher at Clemson University** (Fall 2020 – Fall 2023)
-<br> *Advisor:* [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/)
+5. **Undergraduate Researcher at Clemson University** (Fall 2020 – Fall 2023)
+<br> *Advisor:* [Jon Calhoun](https://jonccal.people.clemson.edu/)
 <br> Worked on projects concerning green supercomputing with focuses on optimizing the energy consumption of lossy compression, checkpoint-restart, and heterogeneous computing.
 
-4. **NSF-REU: HPC Data Reduction at Clemson University** (Summer 2020)
-<br> *Advisor:* [Prof. Jon Calhoun](https://jonccal.people.clemson.edu/)
+6. **NSF-REU: HPC Data Reduction at Clemson University** (Summer 2020)
+<br> *Advisor:* [Jon Calhoun](https://jonccal.people.clemson.edu/)
 <br> Produced runtime power models of the SZ lossy compressor for optimization.
 
 ### Industry
@@ -66,4 +76,4 @@ Worked on California Virtual Power Plant, a project that ended up [keeping power
 Clemson University ENGR 1410 Introduction to MATLAB.<br>
 Teaching Assistant, Fall 2020, Spring 2021.
   
-(Last update: Jan 07, 2024)
+(Last update: Nov 04, 2025)
