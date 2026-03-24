@@ -81,4 +81,4 @@ Worked on California Virtual Power Plant, a project that ended up [keeping power
 Clemson University ENGR 1410 Introduction to MATLAB.<br>
 Teaching Assistant, Fall 2020, Spring 2021.
   
-(Last update: Nov 04, 2025)
+(Last update: Mar 24, 2026)
