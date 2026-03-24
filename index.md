@@ -1,10 +1,11 @@
-Hey! I am Grant Wilkins, an Electrical Engineering PhD student at Stanford University from Kingsport, TN. I am currently exploring the relationship between the electric grid operation and planning and data center power infrastructure, in part due to their boom in power usage fueled by AI. 
+Hey! I am Grant Wilkins, an Electrical Engineering PhD student at Stanford University from Kingsport, TN. I am currently exploring the relationship between electric grid operations/planning and datacenters, due to the precipitous rise in load demand driven by AI. 
 
-I am interested in ways we can use compute as a tool to complement energy systems towards a more sustainable future and to combat effects of climate change. Due to the many ways we cause and experience climate change this kind of work takes many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. <br>
+I am interested in ways we can use compute as a tool to complement energy systems towards a more sustainable future. Due to the many ways we cause and experience climate change this kind of work takes many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. <br>
 
 A few things I am or have been a part of: 
-- Mitigating transients and load swings in AI training clusters at Stanford University
-- Designing next-generation data center power hierarchies to reduce overbuilding [Microsoft Azure Research--Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/)
+- Developing grid and datacenter interaction models and tools at [Stanford University](https://bitsandwatts.stanford.edu/news/bits-watts-initiative-funds-six-sustainable-ai-research-projects)
+- Mitigating transients and load swings in AI training clusters at [Stanford University](https://bitsandwatts.stanford.edu/news/bits-watts-initiative-funds-six-sustainable-ai-research-projects)
+- Designing next-generation datacenter power hierarchies to reduce overbuilding [Microsoft Azure Research--Systems](https://www.microsoft.com/en-us/research/group/azure-research-systems/)
 - Energy-optimizing serving and routing of LLM inference systems supervised by [Richard Mortier](https://mort.io/) and [Srinivasan Keshav](https://svr-sk818-web.cl.cam.ac.uk/keshav/wiki/index.php/Main_Page) at the University of Cambridge.
 - Modeling high-performance computing energy consumption supervised by [Jon Calhoun](https://jonccal.people.clemson.edu/) at Clemson University.
 - Developing lossy compression techniques for federated learning supervised by [Sheng Di](https://www.mcs.anl.gov/~shdi/) at [Argonne National Lab](https://www.anl.gov/).
@@ -14,9 +15,13 @@ A few things I am or have been a part of:
 
 ## Publications
 
+### Preprints
+
+1. G. Wilkins, F. Kazhamiaka, R. Rajagopal. "From Servers to Sites: Compositional Power Trace Generation of LLM Inference for Infrastructure Planning". 2026. [arxiv](https://arxiv.org/abs/2603.18383)
+
 ### Conference Proceedings
 
-1. G. Wilkins, S. Di, J. C. Calhoun, R. Underwood, and F. Cappello, "To Compress or Not To Compress: Energy Trade-Offs and Benefits of Lossy Compressed I/O," in 2025 IEEE International Parallel and Distributed Programming Symposium, Jun. 2025. [arxiv](https://arxiv.org/abs/2410.23497)
+1. G. Wilkins, S. Di, J. C. Calhoun, R. Underwood, and F. Cappello, "To Compress or Not To Compress: Energy Trade-Offs and Benefits of Lossy Compressed I/O," in 2025 IEEE International Parallel and Distributed Programming Symposium, Jun. 2025. [find paper here](https://ieeexplore.ieee.org/abstract/document/11078519) [arxiv](https://arxiv.org/abs/2410.23497)
 2. G. Wilkins, S. Keshav, and R. Mortier. "Towards Energy-Optimal LLM Serving: Workload-Based Energy Models for LLM Inference on Heterogeneous Systems," 2024 ACM HotCarbon Workshop on Sustainable Computer Systems (HotCarbon'24), Jul. 2024. [find paper here](https://hotcarbon.org/assets/2024/pdf/hotcarbon24-final30.pdf) [arxiv](https://arxiv.org/abs/2407.04014)
 3. G. Wilkins, S. Keshav, and R. Mortier. "Hybrid heterogeneous clusters can lower the energy consumption of LLM inference workloads," in 2024 ACM International Conference on Future and Sustainable Energy Systems (e-Energy '24), Jun. 2024, pp. 506–513. [find paper here](https://dl.acm.org/doi/abs/10.1145/3632775.3662830) [arxiv](https://arxiv.org/abs/2407.00010)
 4. G. Wilkins, S. Di, J. C. Calhoun, K. Kim, R. Underwood, and F. Cappello, "FedSZ: Leveraging error-bounded lossy compression for federated learning communications”, in 2024 IEEE International Conference on Distributed Computing Systems (ICDCS), Jul. 2024. [find paper here](https://ieeexplore.ieee.org/abstract/document/10630996) [arxiv](https://arxiv.org/abs/2312.13461)
@@ -41,12 +46,12 @@ A few things I am or have been a part of:
 ### Research
 1. **Graduate Researcher at Stanford University** (Fall 2024 to present)
 <br> *Advisors:* [Ram Rajagopal](https://profiles.stanford.edu/ram-rajagopal), [Phil Levis](https://csl.stanford.edu/~pal/)
-<br> Lead on developing data center level load models to integrate into grid planning methodology.
+<br> Lead on developing datacenter level load models to integrate into grid planning methodology.
 <br> Assistant on designing power electronics solution to swings in AI training power draw.
 
 2. **Research Intern at Microsoft Azure Research--Systems** (Summer 2025)
 <br> *Advisors:* [Fiodar Kazhamiaka](https://www.microsoft.com/en-us/research/people/fkazhamiaka/), [Alok Kumbhare](https://www.microsoft.com/en-us/research/people/alok-kumbhare/), [Chaojie Zhang](https://www.microsoft.com/en-us/research/people/chaojiezhang/), and [Ricardo Bianchini](https://www.microsoft.com/en-us/research/people/ricardob/)
-<br> Created data center power hierarchy simulator to explore reliable and efficient designs for NVIDIA pod era.
+<br> Created datacenter power hierarchy simulator to explore reliable and efficient designs for rising power density deployments.
 
 3. **Graduate Student Researcher at Argonne National Laboratory** (Summer 2023 and 2024)
 <br> *Advisors:* [Sheng Di](https://www.mcs.anl.gov/~shdi/), [Robert Underwood](https://robertu94.github.io/), and [Franck Cappello](https://www.anl.gov/profile/franck-cappello)
