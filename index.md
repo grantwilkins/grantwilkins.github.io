@@ -1,6 +1,7 @@
-Hey! I am Grant Wilkins, an Electrical Engineering PhD student at Stanford University from Kingsport, TN. I am currently exploring the relationship between electric grid operations/planning and datacenters, due to the precipitous rise in load demand driven by AI. 
+Hey! I am Grant Wilkins, an Electrical Engineering PhD student at Stanford University from Kingsport, TN. As AI drives unprecedented growth in electricity demand, I study how datacenters can share the grid with everyone else who depends on it by taking a computing and energy blended approach to problem solving. Some of the work we have done is in building load models, electrical prototypes, formulations and power-system tools so that their expansion stays reliable and clear rather than overbuilt and offloaded.
 
-I am interested in ways we can use compute as a tool to complement energy systems towards a more sustainable future. Due to the many ways we cause and experience climate change this kind of work takes many forms. Some specific examples in my work are being energy conscious in datacenters, applying real-time sensing to energy systems, or attempting to learn patterns and behaviors in microgrids. <br>
+I am always happy to chat, so reach out to gfw at stanford dot edu for any inquiries or questions.
+<br>
 
 A few things I am or have been a part of: 
 - Developing grid and datacenter interaction models and tools at [Stanford University](https://bitsandwatts.stanford.edu/news/bits-watts-initiative-funds-six-sustainable-ai-research-projects)
